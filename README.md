@@ -324,3 +324,19 @@ Monitor, CloudWatch, SCOM, LibreNMS, Elastic or any JSON webhook, and alerts app
 Screenshots show the console with generated sample data.
 
 </div>
+
+## Support and contact
+
+<p>
+  <img src="docs/moncastle-logo.svg" alt="RoboMate" width="56" align="left" style="margin-right:12px">
+  <b>RoboMate</b><br>
+  Website, licensing and support: <a href="https://www.robomatecloud.com"><b>www.robomatecloud.com</b></a>
+</p>
+
+<br clear="left">
+
+For licensing questions, include your **license ID** (shown in the console's user menu). For start-up problems, include the launcher's **Copy details** output.
+
+---
+
+<sub>© 2026 RoboMate. All rights reserved. RoboMate Domaintex Forest Manager is commercial software licensed per installation. This repository contains documentation only. The software, its automation and license services are not open source and may not be copied, modified or redistributed without a written license from RoboMate. Microsoft, Windows, Active Directory, ADMT and USMT are trademarks of the Microsoft group of companies.</sub>
