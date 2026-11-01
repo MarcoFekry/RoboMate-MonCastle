@@ -1,0 +1,26 @@
+{
+  "host": "0.0.0.0",
+  "port": 5050,
+  "publicName": "robomatemoncastle",
+  "mode": "live",
+  "consoleId": null,
+  "dataDir": "data",
+  "tls": { "enabled": true, "cert": null, "key": null },
+  "github": {
+    "owner": "MarcoFekry",
+    "scriptsRepo": "RoboMate-MonCastle-Scripts",
+    "licensesRepo": "RoboMate-MonCastle-Licenses",
+    "accessRepo": "RoboMate-MonCastle-Access",
+    "consoleRepo": "RoboMate-MonCastle-Console",
+    "ref": "main"
+  },
+  "scripts": { "source": "github", "localPath": null, "syncOnStart": true, "syncEveryHours": 12, "timeoutMinutes": 30, "maxParallel": 4 },
+  "pwsh": "pwsh.exe",
+  "license": { "revalidateHours": 6, "graceHours": 72 },
+  "accessLog": { "push": true, "batchMinutes": 5, "batchSize": 50 },
+  "scheduler": { "enabled": true },
+  "session": { "idleMinutes": 720 },
+  "historyHours": 168,
+  "release": { "sourceDir": "D:\\RoboMate-MonCastle", "outputDir": "C:\\robomate\\RoboMate-MonCastle-Console" },
+  "update": { "checkEveryHours": 12 }
+}
