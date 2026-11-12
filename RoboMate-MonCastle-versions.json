@@ -4,14 +4,14 @@
   "latest": {
     "product": "RoboMate MonCastle",
     "package": "user",
-    "version": "4.10.6",
-    "released": "2026-11-11T15:11:08.735Z",
+    "version": "4.10.7",
+    "released": "2026-11-12T03:58:49.089Z",
     "notes": "",
     "publishedBy": "MarcoFekry",
-    "file": "RoboMate-MonCastle-4.10.6.zip",
-    "sha256": "0f296c1a181c1b246a743f0d0c1a54af0b15b4dddc7110b16c17ab0181ed4735",
-    "size": 38554877,
-    "packed": 114,
+    "file": "RoboMate-MonCastle-4.10.7.zip",
+    "sha256": "1314e7c23b07bbefefd06117060e327c54c92bed0aaf01f766f271ab6e8cb6d0",
+    "size": 38679388,
+    "packed": 117,
     "installDir": "C:\\RoboMate\\RoboMate-MonCastle",
     "included": {
       "launcher": true,
@@ -23,14 +23,14 @@
     {
       "product": "RoboMate MonCastle",
       "package": "user",
-      "version": "4.10.6",
-      "released": "2026-11-11T15:11:08.735Z",
+      "version": "4.10.7",
+      "released": "2026-11-12T03:58:49.089Z",
       "notes": "",
       "publishedBy": "MarcoFekry",
-      "file": "RoboMate-MonCastle-4.10.6.zip",
-      "sha256": "0f296c1a181c1b246a743f0d0c1a54af0b15b4dddc7110b16c17ab0181ed4735",
-      "size": 38554877,
-      "packed": 114,
+      "file": "RoboMate-MonCastle-4.10.7.zip",
+      "sha256": "1314e7c23b07bbefefd06117060e327c54c92bed0aaf01f766f271ab6e8cb6d0",
+      "size": 38679388,
+      "packed": 117,
       "installDir": "C:\\RoboMate\\RoboMate-MonCastle",
       "included": {
         "launcher": true,
@@ -39,5 +39,5 @@
       }
     }
   ],
-  "updated": "2026-11-11T15:11:08.735Z"
+  "updated": "2026-11-12T03:58:49.089Z"
 }
